@@ -1,0 +1,7 @@
+{
+  "name": "Gestor Executivo de Atividades",
+  "description": "Uma plataforma intuitiva para gestão de planilhas executivas, permitindo o acompanhamento de atividades, reprogramação com notas de voz e visualização de desempenho através de gráficos dinâmicos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
